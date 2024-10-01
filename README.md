@@ -2,6 +2,7 @@
 
 This project implements a Cola vending machine using VHDL. You can see diagrams below.
 
+
 ## Overview
 
 The vending machine accepts three types of coins: 
